@@ -1,0 +1,12 @@
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\bin\Debug\net5.0\ProjetoAPICliente.Dominio.deps.json
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\bin\Debug\net5.0\ProjetoAPICliente.Dominio.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\bin\Debug\net5.0\ProjetoAPICliente.Dominio.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.AssemblyInfo.cs
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\refint\ProjetoAPICliente.Dominio.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ProjetoAPICliente.Dominio.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\PrtojetoAPICliente.Dominio\obj\Debug\net5.0\ref\ProjetoAPICliente.Dominio.dll

@@ -1,0 +1,17 @@
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Servico.deps.json
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Servico.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Servico.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Data.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Dominio.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Data.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\bin\Debug\net5.0\ProjetoAPICliente.Dominio.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.csproj.AssemblyReference.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.AssemblyInfoInputs.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.AssemblyInfo.cs
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.csproj.CopyComplete
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\refint\ProjetoAPICliente.Servico.dll
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ProjetoAPICliente.Servico.pdb
+C:\ProjetoAPIClientes\ProjetoAPICliente\ProjetoAPICliente.Servico\obj\Debug\net5.0\ref\ProjetoAPICliente.Servico.dll
