@@ -9,9 +9,11 @@ namespace ProjetoAPICliente.Data.DTO
     public class ClienteDTO
     {
         public int IdCliente { get; set; }
-.
+
         public string NomeCliente { get; set; }
 
         public string EmailCliente { get; set; }
+
+        public string Cpf { get; set; }
     }
 }
