@@ -9,6 +9,10 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using ProjetoAPICliente.Data.Contexto;
+using ProjetoAPICliente.Data.Repositorio;
+using ProjetoAPICliente.Data.Repositorio.Interface;
+using ProjetoAPICliente.Servico.Servico;
+using ProjetoAPICliente.Servico.Servico.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,6 +33,8 @@ namespace ProjetoAPICliente
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<BancoContexto>(options => options.UseSqlServer(Configuration.GetConnectionString("DataBase")));
+            services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
+            services.AddScoped<IClienteServico, ClienteServico>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
