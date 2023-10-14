@@ -20,7 +20,8 @@ namespace ProjetoAPICliente.Controllers
         }
 
         [HttpPost]
-        public ActionResult Cadastro(ClienteDTO clienteDTO)
+        [Route("Cadastrar")]
+        public ActionResult Cadastro([FromBody]ClienteDTO clienteDTO)
         {
             try
             {
@@ -43,6 +44,7 @@ namespace ProjetoAPICliente.Controllers
         }
 
         [HttpGet]
+        [Route("Consultar")]
         public List<Cliente> ListarClientes()
         {
             try
