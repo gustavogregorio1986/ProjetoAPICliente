@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,7 @@ namespace ProjetoAPICliente.Data.DTO
 
         public string EmailCliente { get; set; }
 
+        [MaxLengthAttribute(11)]
         public string Cpf { get; set; }
     }
 }
