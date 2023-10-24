@@ -44,7 +44,7 @@ namespace ProjetoAPICliente.Controllers
         }
 
         [HttpGet]
-        [Route("Consultar")]
+        [Route("ListarClientes")]
         public List<Cliente> ListarClientes()
         {
             try
